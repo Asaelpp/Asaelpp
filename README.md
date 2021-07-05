@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asaelpp or just Asael, it´s good enough 
+- 👋 Hi, I’m @Asaelpp or just Asael, it´s good enough. I'm from Brazil, have 19 years old and i´m currently in college studying analysis and systems development
 - 👀 I’m interested in increase my code learning 
 - 🌱 I’m currently learning C#, but i´m looking into some java aswell. 
 - 💞️ I’m looking to collaborate on everything that i can 
