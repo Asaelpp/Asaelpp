@@ -23,6 +23,10 @@
    
 </div>
   
+<div>
+  <a href="https://app.daily.dev/asael_pereira"><img src="https://api.daily.dev/devcards/b9c96a2bb0554714b47c01db7867ce97.png?r=car" width="400" alt="Asael Paulino Pereira's Dev Card"/></a>
+  </div>  
+  
   ## 
 
 <div> 
