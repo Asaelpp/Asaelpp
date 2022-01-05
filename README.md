@@ -4,13 +4,15 @@
 - 👀 I’m interested in increase my code learning 
 - 💼 Currently working as a Full-Stack .NET developer. 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Asaelpp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaelpp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaelpp&layout=compact&langs_count=7&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaelpp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaelpp&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
- <div style="display: inline_block"><br> 
+
+  
+  <div style="display: inline_block"><br> 
   <img align="center" alt="Asael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Asael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Asael-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -19,13 +21,7 @@
    <img align="center" alt="Asael-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Asael-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Asael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  
-   
 </div>
-  
-<div>
-  <a href="https://app.daily.dev/asael_pereira"><img src="https://api.daily.dev/devcards/b9c96a2bb0554714b47c01db7867ce97.png?r=car" width="400" alt="Asael Paulino Pereira's Dev Card"/></a>
-  </div>  
   
   ## 
 
