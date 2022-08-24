@@ -1,26 +1,24 @@
-## Hii, I am Asael Pereira
+## Hey, I'm Asael welcome
 
-- 👋 I'm from Brazil, I have 20 years old and i´m currently in college studying analysis and systems development
-- 👀 I’m interested in increase my code learning 
+- 👋 Brazilian, 20 yrs 
+- 👀 "That's more to you than meets the eye" -- Sam Witwick   
 - 💼 Currently working as a Full-Stack .NET developer. 
 
 <div align="left">
   <a href="https://github.com/Asaelpp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaelpp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaelpp&layout=compact&langs_count=7&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaelpp&show_icons=true&theme=swift&locale_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaelpp&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
 
   
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Asael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Asael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Asael-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Asael-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-   <img align="center" alt="Asael-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Asael-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Asael-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Asael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
 </div>
   
   ## 
@@ -35,3 +33,11 @@
   
  
 </div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://media.giphy.com/media/LHrCZhpFnlyNO/giphy.gif"  />
+</div>
+
+###
