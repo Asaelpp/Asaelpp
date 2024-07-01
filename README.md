@@ -1,9 +1,5 @@
 ## Hey, I'm Asael welcome
 
-- 👋 Brazilian, 21 yrs 
-- 👀 "That's more to you than meets the eye" -- Sam Witwick   
-- 💼 Currently working as a SRE. 
-
 <div align="left">
   <a href="https://github.com/Asaelpp">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaelpp&show_icons=true&theme=swift&locale_all_commits=true&count_private=true"/>
@@ -13,8 +9,6 @@
 
   
   <div style="display: inline_block"><br> 
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg"  height="40" width="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  height="40" width="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" />
